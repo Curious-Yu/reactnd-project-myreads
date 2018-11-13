@@ -21,6 +21,7 @@ To get started developing right away:
 
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
+* you should able to access the app at http://localhost:3000/
 
 ## Within the [starter repository](https://github.com/udacity/reactnd-project-myreads-starter)
 
