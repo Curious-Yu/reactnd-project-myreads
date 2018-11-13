@@ -1,17 +1,29 @@
-# MyReads Project
+# MyReads: Book Tracking App
 
-This is the starter template for the final assessment project for Udacity's React Fundamentals course. The goal of this template is to save you time by providing a static example of the CSS and HTML markup that may be used, but without any of the React code that is needed to complete the project. If you choose to start with this template, your job will be to add interactivity to the app by refactoring the static code in this template.
+This is a React project from the Udacity FEND, I will create a bookshelf app that allows user to select and categorize books that are read, are currently reading, or want to read.
 
-Of course, you are free to start this project from scratch if you wish! Just be sure to use [Create React App](https://github.com/facebookincubator/create-react-app) to bootstrap the project.
+## Author
 
-## TL;DR
+Udacity - initial work - [udacity/reactnd-project-myreads-starter](https://github.com/udacity/reactnd-project-myreads-starter)
+
+Wen Yu - completing the game - [fend-project-memory-game](https://github.com/WYCodeBook/reactnd-project-myreads-starter)
+
+## Get the Project
+I have a few options to start developing this project:
+
+1. using the preconfigured Udacity Workspace
+2. forking and cloning the start repository from [udacity/reactnd-project-myreads-starter](https://github.com/udacity/reactnd-project-myreads-starter)
+3. starting from scratch with Create React App (Just be sure to use [Create React App](https://github.com/facebookincubator/create-react-app) to bootstrap the project.)
+
+## Get Started
 
 To get started developing right away:
 
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
 
-## What You're Getting
+## Within the [starter repository](https://github.com/udacity/reactnd-project-myreads-starter)
+
 ```bash
 ├── CONTRIBUTING.md
 ├── README.md - This file.
@@ -32,8 +44,6 @@ To get started developing right away:
     ├── index.css # Global styles. You probably won't need to change anything here.
     └── index.js # You should not need to modify this file. It is used for DOM rendering only.
 ```
-
-Remember that good React design practice is to create new JS files for each component and use import/require statements to include them where they are needed.
 
 ## Backend Server
 
@@ -90,3 +100,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
 For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## How to contribute
+
+The files in this repository are created for the FEND course. Since this project will be reviewed and graded in order to complete the course; therefore, pull requests will not be merged into the project. Please clone the project if you want to share the fun!
