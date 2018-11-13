@@ -4,9 +4,9 @@ This is a React project from the Udacity FEND, I will create a bookshelf app tha
 
 ## Author
 
-Udacity - initial work - [udacity/reactnd-project-myreads-starter](https://github.com/udacity/reactnd-project-myreads-starter)
+Udacity - initial work - [reactnd-project-myreads-starter](https://github.com/udacity/reactnd-project-myreads-starter)
 
-Wen Yu - completing the game - [fend-project-memory-game](https://github.com/WYCodeBook/reactnd-project-myreads-starter)
+Wen Yu - completing the project - [reactnd-project-myreads](https://github.com/WYCodeBook/reactnd-project-myreads)
 
 ## Get the Project
 I have a few options to start developing this project:
