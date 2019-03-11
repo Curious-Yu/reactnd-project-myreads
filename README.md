@@ -6,7 +6,7 @@ This is a React project from the Udacity FEND, I will create a bookshelf app tha
 
 Udacity - initial work - [reactnd-project-myreads-starter](https://github.com/udacity/reactnd-project-myreads-starter)
 
-Wen Yu - completing the project - [reactnd-project-myreads](https://github.com/WYCodeBook/reactnd-project-myreads)
+Wen Yu - completing the project - [reactnd-project-myreads](https://curious-yu.github.io/reactnd-project-myreads/)
 
 ## Get the Project
 I have a few options to start developing this project:
